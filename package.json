@@ -6,6 +6,6 @@
   },
   "scripts": {
     "lint": "eslint . --fix",
-    "lint:watch": "nodemon --exec 'eslint . --fix' --watch ."
+    "lint:watch": "nodemon --exec eslint . --fix --watch ."
   }
 }

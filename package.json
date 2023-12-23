@@ -5,7 +5,6 @@
     "eslint-plugin-import": "^2.25.2"
   },
   "scripts": {
-    "lint": "eslint . --fix",
-    "lint:watch": "nodemon --exec eslint . --fix --watch ."
+    "lint": "eslint . --fix"
   }
 }
